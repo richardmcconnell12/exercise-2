@@ -1,0 +1,8 @@
+header {
+    border: 1px solid goldenrod;
+}
+
+header ul {
+    list-style-type: none;
+    word-spacing: 70px;
+}
